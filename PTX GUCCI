@@ -149,9 +149,10 @@ do
     AboutGroup:AddLabel("━━━━━━━━━━━━━━━━━━━━━━━━━━━━", true)
     AboutGroup:AddLabel(" GUCCI PTX· Project", true)
     AboutGroup:AddLabel("━━━━━━━━━━━━━━━━━━━━━━━━━━━━", true)
-    AboutGroup:AddLabel("------------------<<<me-and-g>>>---------------------", true)
+    AboutGroup:AddLabel("------------------<<<me-and-girlfriend>>>---------------------", true)
     AboutGroup:AddLabel("  BY PTX_GVLxTSWxNFLxFR", true)
     AboutGroup:AddLabel("  <<<♥♥LOVE YURI(LMxMRL)♥♥>>>", true)
+    AboutGroup:AddLabel("  <<<<<<♥♥I love Yuri so much♥♥>>>>>>", true)
     AboutGroup:AddLabel("━━━━━━━━━━━━━━━━━━━━━━━━━━━━", true)
 end
 -- ═══════════════════════════════════════════════════════════
