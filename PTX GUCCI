@@ -168,7 +168,7 @@ do
     AboutGroup:AddLabel("━━━━━━━━━━━━━━━━━━━━━━━━━━━━", true)
     AboutGroup:AddLabel(" PTX GUCCI· Project", true)
     AboutGroup:AddLabel("━━━━━━━━━━━━━━━━━━━━━━━━━━━━", true)
-    AboutGroup:AddLabel("----------<<<<<<me and girlfriend>>>>>>--------", true)
+    AboutGroup:AddLabel("----------<<<<<<me-and-girlfriend>>>>>>--------", true)
     AboutGroup:AddLabel("  by PTX_GVLxTSWxNFLxFR • LeontinesfJkFF", true)
     AboutGroup:AddLabel("-----------<<<<<<♥♥girlfriend♥♥>>>>>>----------", true)
     AboutGroup:AddLabel("      LMxMRL • Kapan_y13", true)
